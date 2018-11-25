@@ -1,0 +1,7 @@
+suites:
+  phpspec_amp:
+    namespace: OWOX\PhpSpec\Amp
+    psr4_prefix: OWOX\PhpSpec\Amp
+    src_path: src/
+
+formatter.name: pretty
