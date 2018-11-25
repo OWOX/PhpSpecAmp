@@ -1,0 +1,23 @@
+{
+    "name": "sevavietl/phpspec-amp",
+    "type": "library",
+    "require": {
+        "php": ">=7.1",
+        "amphp/amp": "^2.0"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "OWOX\\PhpSpec\\Amp\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sevavietl",
+            "email": "sevavietl@gmail.com"
+        }
+    ]
+}
